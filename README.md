@@ -24,7 +24,7 @@
 
   <h2 style="color: #34495e;">📦 Installation</h2>
   <ol>
-    <li>Clone the repository: <code>git clone https://github.com/yourusername/clothing-platform.git</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/NavodKCN/Online-Clothing-Platform</code></li>
     <li>Import the SQL file into your MySQL database</li>
     <li>Update database credentials in the config file</li>
     <li>Run the project on a local server (XAMPP)</li>
